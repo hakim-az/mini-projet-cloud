@@ -29,8 +29,8 @@ This is a simple web application built using **Flask** that allows users to uplo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/hakim-az/mini-projet-cloud.git
+cd mini-projet-cloud
 ```
 
 ### 2. Create a `.env` file
@@ -89,6 +89,13 @@ Open `http://localhost:8080` in your browser and:
 │   └── nextcloud.html     # Upload form UI
 └── .env                   # Env variables (excluded from version control)
 ```
+---
+## 🖼️ Screenshot support
+
+### 1. App pages
+![Home page](https://i.imgur.com/pjGacLh.png)
+
+
 
 ---
 
