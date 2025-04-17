@@ -91,11 +91,21 @@ Open `http://localhost:8080` in your browser and:
 ```
 ---
 ## 🖼️ Screenshot support
+## 🖼️ Screenshot support
 
-### 1. App pages
+### 1. App Pages
+
+#### Home Page
 ![Home page](https://i.imgur.com/pjGacLh.png)
+*Home page view of the app.*
 
+#### Labs Page
+![Labs page](https://i.imgur.com/pjGacLh.png)
+*Labs page where you can explore different cloud concepts.*
 
+#### Nextcloud Page
+![Nextcloud page](https://i.imgur.com/pjGacLh.png)
+*Nextcloud page where you can upload files to the cloud.*
 
 ---
 
