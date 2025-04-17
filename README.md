@@ -91,7 +91,6 @@ Open `http://localhost:8080` in your browser and:
 ```
 ---
 ## 🖼️ Screenshot support
-## 🖼️ Screenshot support
 
 ### 1. App Pages
 
@@ -100,12 +99,29 @@ Open `http://localhost:8080` in your browser and:
 *Home page view of the app.*
 
 #### Labs Page
-![Labs page](https://i.imgur.com/pjGacLh.png)
+![Labs page](https://i.imgur.com/7fTeqOQ.png)
 *Labs page where you can explore different cloud concepts.*
 
 #### Nextcloud Page
-![Nextcloud page](https://i.imgur.com/pjGacLh.png)
+![Nextcloud page](https://i.imgur.com/XQXiUsj.png)
 *Nextcloud page where you can upload files to the cloud.*
+
+### 2. Uploading file steps
+
+#### Before upload
+![Before upload](https://i.imgur.com/3Af6LrG.png)
+*As you can see the nextcloud conatins just the default files*
+
+#### While upload
+![Select file](https://i.imgur.com/sHkYbKU.png)
+*Here you can select any file from your pc*
+
+![File uploaded](https://i.imgur.com/o9wQfBk.png)
+*The file upoladed successfuly*
+
+#### After upload
+![After uploaded](https://i.imgur.com/VUAHJZx.png)
+*File add to the emote nextcloud*
 
 ---
 
