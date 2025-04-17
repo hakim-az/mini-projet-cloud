@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Virtual environment
+venv/
+env/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+*.pid
+
+# VSCode or PyCharm config folders (optional)
+.vscode/
+.idea/
